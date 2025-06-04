@@ -8,7 +8,7 @@ Projeto desenvolvido como exercício prático no curso de Ciência da Computaç�
 - Interface de terminal (CLI)
 - Código modular (dividido em múltiplos arquivos)
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - Python 3
 - Estrutura modular
 - JSON como banco de dados leve
